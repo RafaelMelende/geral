@@ -1,0 +1,38 @@
+.primeiro-conteudo{
+    padding-top: 100px;
+    /*width: 800px;*/
+    padding-left: 60px;
+}
+
+.primeiro-conteudo img{
+    height: 300px;
+    
+}
+
+.primeiro-conteudo #carouselExampleIndicators{
+    width: 600px; 
+    display: block; 
+}
+
+.exemple button{
+    width: 400px;
+    height: 150px;
+    background-color: rgb(116, 175, 241);
+    border-color: rgb(116, 175, 241);
+    color: black;
+    font-size: 25px;    
+}
+
+.exemple button .txt{
+   position: relative;
+   padding-left:80px;
+}
+
+
+.exemple button img{
+    width: 100px;
+    height: 100px;
+    left:10px;
+    top:28px;
+    position: absolute;
+}
